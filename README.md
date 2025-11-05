@@ -5,11 +5,11 @@
 ---
 
 ### 🧠 About Me
-👨‍💻 Full Stack Developer with 3+ years of hands-on experience building scalable web applications
-💡 Passionate about clean architecture & scalable backend systems
-🧩 Open Source Contributor
-💬 Ask me about  Javascript, TypesScript, Node.js, Java, Spring Boot, REST APIs, and System Design
-⚡ Fun fact: I love debugging and simplifying complex systems
+-👨‍💻 Full Stack Developer with 3+ years of hands-on experience building scalable web applications
+-💡 Passionate about clean architecture & scalable backend systems
+-🧩 Open Source Contributor
+-💬 Ask me about  Javascript, TypesScript, Node.js, Java, Spring Boot, REST APIs, and System Design
+-⚡ Fun fact: I love debugging and simplifying complex systems
 
 ---
 
