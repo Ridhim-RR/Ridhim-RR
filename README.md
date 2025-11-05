@@ -1,21 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Ridhim Singh Raizada
+
+### 🚀 Full Stack Developer  JavaScript | Node.js | TypeScript | Java | Spring Boot | Microservices 
+
+---
+
+### 🧠 About Me
+- 🔭 Working on **Microservices-based E-Commerce System**
+- 🌱 Currently learning **Spring Security, Kafka, and TypeScript**
+- 💡 Passionate about **clean architecture & scalable backend systems**
+- 🧩 Open Source Contributor @ BetterAuth, Formbricks
+- 💬 Ask me about **Java, Spring Boot, Node.js, REST APIs**
+- ⚡ Fun fact: I love debugging and simplifying complex systems
+
+---
+
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
 ![Ridhim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridhim-rr&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ridhim-rr&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhim-rr&layout=compact&theme=tokyonight)
-![Ridhim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhim-rr&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ridhim-rr&theme=tokyonight)
+![Ridhim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhim-rr&theme=tokyo-night)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ridhim-rr&theme=tokyonight&no-frame=true&margin-w=5)
 
-<!--
-**Ridhim-RR/Ridhim-RR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
