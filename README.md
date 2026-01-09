@@ -29,6 +29,8 @@
 ### 📈 GitHub Stats
 
 ![Ridhim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridhim-rr&show_icons=true&theme=tokyonight)
+[![My GitHub Stats](https://github-readme-stats-ridhim-rr.vercel.app/api?username=ridhim-rr&show_icons=true&theme=github_dark&border_radius=0&hide_border=true&hide_title=true&text_bold=false)](https://github.com/ridhim-rr)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhim-rr&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ridhim-rr&theme=tokyonight)
 ![Ridhim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhim-rr&theme=tokyo-night)
